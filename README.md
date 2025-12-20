@@ -1,7 +1,7 @@
 # Data-Warehouse-Medallion-Project
 Building a modern data warehouse using medallion architecture with SQL server, including ETL, data modelling, and data visualization (Power BI)
 - **Technology Stacks**: SQL Server, Power BI
-
+- **Other tools**: Notion (Project Management), Draw.io (ER Diagram, System Architecture)
 
 ##  Project Requirements
 ### 1) Building the Data Warehouse (Medallion Architecture)
